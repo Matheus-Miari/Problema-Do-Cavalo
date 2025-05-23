@@ -31,7 +31,21 @@ Este projeto foi desenvolvido com fins de **prática de algoritmos**, lógica de
 A lógica por trás da solução usa **Backtracking**, onde o cavalo tenta todos os movimentos possíveis até encontrar um caminho válido que cubra todas as casas do tabuleiro.
 
 ---
+🧩 Inspiração
 
+O Problema do Cavalo é um clássico desafio matemático e algorítmico que surgiu no século IX e envolve encontrar um caminho onde o cavalo de xadrez visite todas as casas do tabuleiro exatamente uma vez, obedecendo às regras do seu movimento em "L".
+
+Além de ser um ótimo exercício de backtracking, o projeto ajuda a fortalecer conceitos fundamentais de programação, como:
+
+    Estruturas de repetição e decisão
+
+    Manipulação de arrays bidimensionais
+
+    Interação com o DOM
+
+    Controle de fluxo e recursão
+
+Ideal para quem está estudando algoritmos, lógica ou quer aprimorar suas habilidades com projetos visuais e interativos.
 ## 📦 Como usar
 
 1. Clone o repositório:
