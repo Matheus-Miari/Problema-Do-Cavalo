@@ -1,6 +1,10 @@
 # ♞ Problema do Cavalo - Visualizador Interativo
 
-Este projeto é uma aplicação web criada com **HTML**, **CSS** e **JavaScript puro**, que permite visualizar a solução do clássico **Problema do Cavalo** no xadrez — onde o cavalo deve visitar todas as casas do tabuleiro **exatamente uma vez**, sem repetir nenhuma.
+Este projeto é uma aplicação web criada com **HTML**, **CSS** e **JavaScript puro**, que permite visualizar a solução do clássico **Problema do Cavalo no xadrez** — onde o cavalo deve visitar todas as casas do tabuleiro exatamente uma vez, sem repetir nenhuma.
+
+🔗  [Acesse o projeto online clicando aqui](https://problema-do-cavalo.vercel.app/)
+
+
 
 <img src='assets/Captura de tela de 2025-05-23 17-49-07.png'>
 
@@ -13,7 +17,7 @@ Este projeto foi desenvolvido com fins de **prática de algoritmos**, lógica de
 ## ⚙️ Funcionalidades
 
 - ✅ Gerador de tabuleiros dinâmico (5x5 até 8x8)
-- ✅ Demonstração animada da solução do problema do cavalo
+- ✅ Demonstração da solução do problema do cavalo
 - 🚫 (Modo de jogo interativo será adicionado futuramente)
 
 ---
@@ -21,7 +25,7 @@ Este projeto foi desenvolvido com fins de **prática de algoritmos**, lógica de
 ## 👨‍💻 Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (com design responsivo)
+- CSS3
 - JavaScript (Vanilla JS)
 
 ---
