@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problema do Cavalo</title>
+    <link rel="stylesheet" href="style/main.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header class="header">
+        <h1 class="header_title"><img src="assets/horse.svg" alt="icon horse">Problema do Cavalo</h1>
+        <p class="header_p">Resolva o famoso problema do xadrez
+        onde um cavalo deve visitar todas as casas do tabuleiro 
+        exatamente uma vez</p>
+    </header>
+    <section class="options">
+        <label for="board_size">Escolha o tamanho:</label>
+        <select id="board_size">
+            <option value="5" selected>5x5</option>
+            <option value="6">6x6</option>
+            <option value="7">7x7</option>
+            <option value="8">8x8</option>
+        </select>
+        <button class="btn_gerar">Demonstrar solução <img src="assets/ver.svg" alt=""></button>
+    
+    </section>
+    <div id="chessboard">
+    </div>
+    <section class="btn_game">
+        Em construção:
+        <button>Jogar <img src="assets/" alt=""></button>
+        <button>Reiniciar</button>
+        <button>Desfazer</button>
+        <button>Tempo (00:00)</button>
+    </section>
+
+    <footer class="footer">
+        <h3 class="footer_h3">Criado por <a href="https://github.com/Matheus-Miari" target="_blank">Matheus Miari</a></h3>
+        <p class="footer_p">Uma interação com clássico problema do cavalo no xadrez</p>
+    </footer>
+    <script src="js/board.js"></script>
+    <script src="js/game.js"> </script>
+</body>
+</html>
